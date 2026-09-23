@@ -293,7 +293,7 @@ ZERO·R 由项目团队共同开发。
 项目成员：
 
 * **Waiting** — Project Lead / Software Development
-* **Hi_Tao** — Perception / Visual Recognition
+* **HiTao** — Perception / Visual Recognition
 * **Xiang** — System Development / Collaboration
 
 ---
